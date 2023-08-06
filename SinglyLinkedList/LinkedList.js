@@ -70,7 +70,7 @@ class LinkedList {
     while (node2 !== null) {
       if (node2.data === data2) {
         break;
-      }
+      }w
       node2Prev = node2;
       node2 = node2.getNextNode();
     }
